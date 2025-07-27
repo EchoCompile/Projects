@@ -16,8 +16,8 @@ This repo helps me track my progress and share my work as I grow as a developer 
 
 - Each project lives in its own folder
 - Folder names follow this pattern:  
-  `Project Name - Project [number]`  
-  Example: `My Favorite Animal - Project 1`
+  `Project [number] - Project Name`  
+  Example: `Project 1 - My Favorite Animal`
 
 - Projects are added in the order I complete them
 
