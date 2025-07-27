@@ -1,0 +1,26 @@
+.img1
+{
+    max-width: 50%;
+}
+
+.vid1
+{
+    max-width: 50%;
+}
+
+#feedback
+{
+    width: 100%;
+    height: 100vh;
+}
+.Thank you
+{
+    height: auto;
+    margin: 100%;
+}
+
+textarea
+{
+    height: 100px;
+    width: 500px;
+}
